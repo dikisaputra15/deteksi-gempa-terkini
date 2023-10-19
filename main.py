@@ -1,12 +1,7 @@
 """
 aplikasi deteksi gempa terkini
 """
-
-def ekstraksi_data():
-    pass
-
-def tampilkan_data(result):
-    pass
+from gempaterkini import ekstraksi_data, tampilkan_data
 
 if __name__ == '__main__':
     print ('Aplikasi Utama')
